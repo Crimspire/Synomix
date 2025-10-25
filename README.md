@@ -9,4 +9,4 @@ Developed and maintained by **Crimspire LLC**.
 
 ---
 
-For partnership or research inquiries: contact@crimspire.com
+For partnership or research inquiries: contact@crimspire.org
