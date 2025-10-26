@@ -1,7 +1,8 @@
 ﻿// Synomix.cpp : Defines the entry point for the application.
 //
 
-#include "Synomix.h"
+#include "../include/simulation_.h"
+#include <iostream>
 
 using namespace std;
 
